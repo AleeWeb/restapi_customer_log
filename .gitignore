@@ -3,6 +3,8 @@
 djangoEnv/
 venv/
 
+.vscode/
+db.sqlite3
 
 # C extensions
 *.so
