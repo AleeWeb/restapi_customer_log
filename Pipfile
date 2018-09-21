@@ -9,6 +9,8 @@ djangorestframework = "*"
 pygments = "*"
 coreapi = "*"
 coreapi-cli = "*"
+django-heroku = "*"
+gunicorn = "*"
 
 [dev-packages]
 

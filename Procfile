@@ -1,2 +1,2 @@
-web: gunicorn restapi-customer-log.wsgi --log-file -
+web: gunicorn restapi_customer_log.wsgi --log-file -
 
