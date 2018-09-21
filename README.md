@@ -1,2 +1,2 @@
 # restapi_customer_log
-Django REST Framework API code demo of a store customer log.
+Django 2.1 REST Framework API code demo of a store customer log.
