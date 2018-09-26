@@ -5,7 +5,7 @@ from customers import views
 
 urlpatterns = [
     path('', RedirectView.as_view(url='customers/', permanent=False)),
-    path('customers/', views.CustomerList.as_view()),
+    path('customers/', views.CustomerPurchaseLog.as_view()),
     path('customers/<int:pk>/', views.CustomerDetail.as_view()),
 ]
 
